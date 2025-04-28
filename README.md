@@ -6,10 +6,12 @@ I'm a passionate frontend developer with expertise in React.js. I love building 
 Please visit my portfolio to know more https://12sachin95.github.io/my-portfolio/
 
 ## Skills
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frontend:** React.js, Redux, TypeScript, HTML, CSS, Sass
-- **Tools:** Git, npm, Webpack
-- **UI/UX:** Responsive Design, UI Testing, Design Systems
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript
+- **Frontend:** React.js, Nextjs, React-native, Redux, Redux toolkit, Zustand, React-query(tanstack) 
+- **Backend:** Nodejs, Expressjs, Go lang, Graphql, O-auth, JWT, Redis
+- **Databases:** MongoDb, postgres, ORM:-(mongoose, sequilize, prisma) 
+- **Tools:** Git, Docker, Postman, npm, yarn, Vite, Webpack
+- **UI/UX:** Responsive Design, UI Testing(Jest and react testing library), Design Systems
 
 ## Connect with Me
 - LinkedIn: [Sachin Rathore](https://www.linkedin.com/in/sachin-rathore-642400113?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
