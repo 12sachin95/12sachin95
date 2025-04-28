@@ -2,7 +2,8 @@
 
 ## About Me
 I'm a passionate frontend developer with expertise in React.js. I love building user interfaces that are not only visually appealing but also deliver a seamless and engaging user experience.
-https://12sachin95.github.io/my-portfolio/
+
+Please visit my portfolio to know more https://12sachin95.github.io/my-portfolio/
 
 ## Skills
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
